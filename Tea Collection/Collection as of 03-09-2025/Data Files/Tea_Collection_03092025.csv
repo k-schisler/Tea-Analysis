@@ -1,0 +1,111 @@
+﻿Name,Brand,Coffee_Tea,Brew_Type,Tea_Type,Coffee_Type,Steeping_Time_Min,Steeping_Time_Max,Water_Temp_Min_C,Water_Temp_Max_C,Water_Temp_Min_F,Water_Temp_Max_F,Weight_Oz,Weight_g,Opened,Ingredients
+Almond Papaya,Dollar Tea Club,Tea,Loose Leaf,Rooibos,N/A,4,6,100,,212,,0.28,8,FALSE,"Rooibos, papaya pieces, almond pieces, natural flavors"
+Berry Merlot,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,FALSE,"Elderberry, Currant, Hibiscus petals, Black tea, natural flavors"
+Birthday Cake,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,TRUE,"Black tea, candy, calendula petals, sunflower petals, safflower petals, natural flavors"
+Black Forest Cake,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,TRUE,"Black tea, pomegranate, cherry stems, moringa, cocoa beans, cranberry, cornflower petals, safflower petals, natural flavors"
+Black Vanilla Rose,Diehl Marcus & Co.,Tea,Loose Leaf,Black,N/A,3,5,,,195,212,,,TRUE,"Black Tea, Blackberry Leaves, Stevia Leaves, Rosebuds"
+Blueberry Pancakes,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,FALSE,"Black tea, blueberries, maple syrup, cornflower petals, calendula petals, marigold petals, sunflower petals, natural flavors"
+Brain-Aid,Dollar Tea Club,Tea,Loose Leaf,Herbal,N/A,4,6,100,,212,,0.28,8,TRUE,"Rosehip, bilberry leaves, tulsi leaves, rosemary, green mate, orange pieces, natural flavors"
+Caramel Apple,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,7,100,,212,,0.28,8,FALSE,"Apple, Hibiscus, Rosehip pieces, natural flavors"
+Caramel Apple,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,7,100,,212,,0.28,8,FALSE,"Apple, Hibiscus, Rosehip pieces, natural flavors"
+Caramel Apple Pie,Piper & Leaf,Tea,Tea Bags,Black,N/A,3.5,,100,,,,,,TRUE,"Ceylon black tea, apples, cinnamon, ginger, orange rind, star anise, licorice, caramel flavor, black pepper"
+Caramel Corn,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,FALSE,"Black tea, popped rice, applie pieces, white chamomile, safflower petals, natural flavors"
+Cherry White,Distinctly Tea,Tea,Loose Leaf,White,Light Roast,2,4,N/A,N/A,185,N/A,,100,TRUE,"White tea China Pai My Tan, green tea darjeeling, green tea China Fog, Lung Ching, Jasmine Pearls, cherries, coconut chips, flavor, rosebuds"
+Chocolate Strawberry,infuZed tZ,Tea,Loose Leaf,Herbal,N/A,5,10,100,,212,,,25,TRUE,"Apple, Hibiscus, Rosehip, Strawberry, papaya, cocoa, cornflower petals, natural flavors"
+Christmas Lights,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,FALSE,"Black tea, candy, cinnamon, clove, jasmine petals, natural flavors"
+Citrus Oolong,Mosi,Tea,Loose Leaf,Oolong,N/A,2,4,,,185,,,6,FALSE,"Orange from Himachal Pradesh, Lemon from Andra Pradesh, Mango from Maharashtra, Long Leaf oolong from Darjeeling and Upper Assam"
+Citrus Sunset,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,6,100,,212,,0.28,8,TRUE,"Hibiscus, cornflower petals, rosehip, apple, orange pieces, natural flavors"
+Columbia Honey,Moon Crater,Coffee,Beans,N/A,,N/A,N/A,N/A,N/A,N/A,N/A,,30,FALSE,
+Cookies & Cream,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,FALSE,"Black tea, Sumac berries, cornflower, safflower, red plum petals, natural flavors"
+Cranberries & Chocolate,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,7,100,,212,,0.28,8,FALSE,"Apple, currants, carob, cocoa, elderberry, hibiscus, pineapple, candy, cranberry, elderflower petals, stevia, natural flavors"
+Cranberry Harvest,Dollar Tea Club,Tea,Loose Leaf,Rooibos,N/A,4,6,100,,212,,0.28,8,TRUE,"Rooibos, Rosehip pieces, cranberry pieces, lime leaves, natural flavors"
+Dandy Detox,Dollar Tea Club,Tea,Loose Leaf,Herbal,N/A,4,6,100,,212,,0.28,8,TRUE,"Ginger, Licorice, Tulsi, Dandelion leaves, burdock root, rose petals, elder flowers, safflower petals, natural flavors"
+Dollar Chai,Dollar Tea Club,Tea,Loose Leaf,Chai,N/A,4,5,100,,212,,0.28,8,TRUE,"Black tea, ginger, cinnamon, cardamom, black pepper, white pepper, clove, nutmeg, rose petals"
+Dollar Chai,Dollar Tea Club,Tea,Loose Leaf,Chai,N/A,4,5,100,,212,,0.28,8,FALSE,"Black tea, ginger, cinnamon, cardamom, black pepper, white pepper, clove, nutmeg, rose petals"
+Earl Grey,Mosi,Tea,Loose Leaf,Black,N/A,2,4,,,212,,,6,FALSE,Assam Black Tea from Tezpure region in India
+Earl Grey,Mosi,Tea,Loose Leaf,Black,N/A,2,4,,,212,,,6,FALSE,Assam Black Tea from Tezpure region in India
+Earl Grey,Tetley,Tea,Tea Bags,Black,N/A,3,4,100,,,,,48,TRUE,"Black Tea, Natural Flavor"
+Endless Summer,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,7,100,,212,,0.28,8,FALSE,"Hibiscus petals, rosehip pieces, apple pieces, orange pieces, pineapple pieces, papaya pieces, natural flavors"
+Everything Nuts,Dollar Tea Club,Tea,Loose Leaf,Herbal,N/A,4,6,100,,212,,0.28,8,FALSE,"Apple, hibiscus, rosehip, cocoa bean, almond pieces, natural flavors"
+Flu Fighter,infuZed tZ,Tea,Loose Leaf,Green,N/A,5,10,100,,212,,,25,TRUE,"Green Tea, echinacea, elderberries, rosehip, mango, goji berries, sage, raspberry pieces, natural flavors"
+Freeze-Dried Instant Coffee Classic,Juan Valdez,Coffee,Instant,N/A,Instant,N/A,N/A,N/A,N/A,N/A,N/A,3.5,100,TRUE,100% Colombian Arabica Coffee Beans
+Freeze-Dried Instant Coffee Classic,Juan Valdez,Coffee,Instant,N/A,Instant,N/A,N/A,N/A,N/A,N/A,N/A,3.5,100,FALSE,100% Colombian Arabica Coffee Beans
+Fruit Smoothie,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,FALSE,"Apple pieces, hibiscus petals, rosehip, orange, banana, cherry, strawberry pieces, natural flavors"
+Fruity Paradise,tiesta tea,Tea,Loose Leaf,Green,N/A,1,3,,,175,,4,113.4,TRUE,"green tea, pineapple, mango, black tea, natural flavors, rose petals, raspberry bits, strawberries"
+Grapefruit Frose,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,FALSE,"Black tea, grapefruit, orange, papaya, safflower, cornflower, red plum petals, natural flavors"
+Green Apple & Honey,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,4,80,,176,,0.28,8,TRUE,"Green Tea, apple pieces, tamarind leaves, natural flavors"
+Green Chamomile,Mosi,Tea,Loose Leaf,Herbal,N/A,3,5,,,185,,,6,FALSE,"Green Tea from Mid-Darjeeling and North Benga India, Chamomile Flower from Uttar Pradesh India, Lemongrass from Kerala India"
+Green Meadows,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,3,80,,176,,0.28,8,FALSE,"Green Tea, candy pieces, cornflower petals, natural flavors"
+Green Mint,Mosi,Tea,Loose Leaf,Green,N/A,2,4,,,185,,,6,TRUE,Green Tea from Mid-Darjeeling and North Bengal India
+Green Mint,Mosi,Tea,Loose Leaf,Green,N/A,2,4,,,185,,,6,FALSE,Green Tea from Mid-Darjeeling and North Bengal India
+Greens & Roses,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,3,80,,176,,0.28,8,TRUE,"Green Tea, Rose petals, natural flavors"
+Happy Tummy,Dollar Tea Club,Tea,Loose Leaf,Herbal,N/A,4,6,100,,212,,0.28,8,TRUE,"Apple Pieces, Hibiscus, Senna leaves, rosehip, pomegranate pieces, natural flavors"
+Happy Tummy,Dollar Tea Club,Tea,Loose Leaf,Herbal,N/A,4,6,100,,212,,0.28,8,FALSE,"Apple Pieces, Hibiscus, Senna leaves, rosehip, pomegranate pieces, natural flavors"
+Herbal Harmony,Dollar Tea Club,Tea,Loose Leaf,Herbal,N/A,4,6,100,,212,,0.28,8,FALSE,"Apple Pieces, Rosehips, peppermint, lemon grass, shop vervain, line tree blossoms, natural flavors"
+Hibiscus Rose,Mosi,Tea,Loose Leaf,Green,N/A,3,4,,,185,,,6,FALSE,"Hibiscus from Karnataka, Rose from Kashmir, Green tea rom North Bengal"
+Holiday Nog,Good & Gather,Coffee,Ground,N/A,Light Roast,N/A,N/A,N/A,N/A,N/A,N/A,12,340,TRUE,"Arabica Coffee, Natural Flavor"
+Hot Tamales,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,3,80,,176,,0.28,8,TRUE,"Green tea, Cinnamon, Rose petals, natural flavors"
+House Blend,Nescafe,Coffee,Instant,N/A,Instant,N/A,N/A,N/A,N/A,N/A,N/A,7,198,TRUE,
+Japan Genmaicha,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,3,80,,176,,0.28,8,FALSE,"Green tea, roasted rice, popped rice"
+Key Lime Pie,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,FALSE,"Black Tea, Lime leaves, Lime pieces, Lemon pieces, natural flavors"
+Kompot,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,FALSE,"Apple pieces, hibiscus petals, rosehip, mango, pineapple, elderberry, orange pieces, natural flavors"
+Lavender Chamomile,Mosi,Tea,Loose Leaf,Herbal,N/A,3,5,,,185,,,6,FALSE,"Chamomile Flower from Uttar Pradesh India, Lavender from France"
+Lily Blossoms,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,4,80,,176,,0.28,8,FALSE,"Green Tea, Marigold flowers, Lily Flowers, natural flavors, artifical flavors"
+Long Island Strawberry,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,3,80,,176,,0.28,8,FALSE,"Green Tea, Papaya, strawberry pieces, natural flavors"
+Madagascar Spice,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,6,100,,212,,0.28,8,FALSE,"Apple pieces, Hibiscus petals, rosehip pieces, almond pieces, safflower petals, natural flavors"
+Madagascar Spice,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,6,100,,212,,0.28,8,FALSE,"Apple pieces, Hibiscus petals, rosehip pieces, almond pieces, safflower petals, natural flavors"
+Major Dickason's Blend,Peet's Coffee,Coffee,Ground,N/A,Dark Roast,N/A,N/A,N/A,N/A,N/A,N/A,18,510,TRUE,
+Mango Yogurt,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,7,100,,212,,0.28,8,FALSE,"Hibiscus, rosehips, apple pieces, mango pieces, black currants, orange peels, coconut pieces, natural flavors"
+Masala Chai,Mosi,Tea,Loose Leaf,Black,N/A,4,5,,,212,,,6,FALSE,"Assam Black Tea from Tezpure region in India, Spices from Karnataka India"
+Mate Orange Sun,Distinctly Tea,Tea,Loose Leaf,Herbal,N/A,5,7,,,212,,,8,TRUE,"Green mate, lemongrass, flavor"
+Morning Black,Mosi,Tea,Loose Leaf,Black,N/A,2,4,,,212,,,6,FALSE,Orthodox Assam black tea from the Golaghat district in Assam India
+Mulled Wine,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,TRUE,"Black Tea, Cinnamon, Cloves, Safflower petals, Natural flavors"
+Mystery Tea,Mosi x Dollar Tea Club,Tea,Loose Leaf,Custom Blend,N/A,,,,,,,,6,FALSE,
+Mystery Tea,Mosi x Dollar Tea Club,Tea,Loose Leaf,Custom Blend,N/A,,,,,,,,6,FALSE,
+Mystery Tea,Mosi x Dollar Tea Club,Tea,Loose Leaf,Custom Blend,N/A,,,,,,,,6,FALSE,
+Mystery Tea,Mosi x Dollar Tea Club,Tea,Loose Leaf,Custom Blend,N/A,,,,,,,,6,FALSE,
+Mystery Tea,Mosi x Dollar Tea Club,Tea,Loose Leaf,Custom Blend,N/A,,,,,,,,6,FALSE,
+Mystery Tea,Mosi x Dollar Tea Club,Tea,Loose Leaf,Custom Blend,N/A,,,,,,,,6,FALSE,
+Mystery Tea,Mosi x Dollar Tea Club,Tea,Loose Leaf,Custom Blend,N/A,,,,,,,,6,FALSE,
+Niagara Icewine,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,FALSE,"Black Tea, White Tea, Currants, natural flavors, Ontario Icewine"
+Nutcracker,Dollar Tea Club,Tea,Loose Leaf,Rooibos,N/A,4,6,100,,212,,0.28,8,FALSE,"Rooibos, papaya pieces, candy, almond pieces, natural flavors"
+Orange Creamsicle,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,FALSE,"Apple, rosehip pieces, orange pieces, hibiscus, sunflower petals, safflower petals, natural flavors"
+Orange Oolong,Dollar Tea Club,Tea,Loose Leaf,Oolong,N/A,4,5,85,,185,,0.28,8,FALSE,"Black tea, Green tea, Oolong Tea, Jasmine petals, natural flavors"
+Orange Spice,Mosi,Tea,Loose Leaf,Green,N/A,3,5,,,206,,,6,FALSE,Green Tea from Mid-Darjeeling and North Benga India
+Organic Ginger Peach Green Tea,Brew la la Tea,Tea,Tea Bags,Green,N/A,2,3,100,100,,,2.64,75,TRUE,"Organic Green Tea, Natural Ginger Flavor, Natural Peach Flavor"
+Pecan Tart,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,4,80,,176,,0.28,8,FALSE,"Green Tea, Papaya pieces, orange petals, natural flavors"
+Pina Colada,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,TRUE,"Black tea, Pineapple pieces, coconut pieces, blackberry leaves, safflower petals, natural flavors"
+Pink Lemonade,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,TRUE,"Apple, hibiscus petals, cornflow petals, rosehip pieces, raspberry pieces, lemon peel, strawberry leaves, chamomile, natural flavors"
+Pink Lemonade,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,FALSE,"Apple petals, Hibiscus petals, cornflower petals, rosehip pieces, raspberry pieces, lemon peel, strawberry leaves, chamomile, natural flavors"
+Pink Rose Chateau,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,4,80,,176,,0.28,8,FALSE,"Green Tea, Oolong Tea, Hibiscus Petals, Rosehip, Rose petals, Calendula petals, Sunflower petals, Natural Flavors"
+Raspberry Croissant,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,TRUE,"Black tea, Mango pieces, Rosehip pieces, Raspberry pieces, white tea, rose petals, natural flavors"
+Red Raspberry & Hemp,Sowing Seeds Farm,Tea,Tea Bags,Herbal,N/A,2,5,100,,,,,30,TRUE,"Red Raspberry, Organically Grown Hemp"
+Remember Me,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,FALSE,"Black tea, Apple pieces, cornflower, linden, mallow, natural flavors"
+Rio de Clementina,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,FALSE,"Apple pieces, Orange pieces, hibiscus petals, rosehip, cinnamon, natural flavors"
+Rooibos Berry Noir,Dollar Tea Club,Tea,Loose Leaf,Rooibos,N/A,4,6,100,,212,,0.28,8,FALSE,"Rooibos, Black currants, strawberry leaves, sunflowers, safflowers, natural flavors"
+Rooibos Lavender,Mosi,Tea,Loose Leaf,Herbal,N/A,2,4,,,212,,,6,FALSE,Orthodox Assam black tea from the Golaghat district in Assam India
+Rose Black,Mosi,Tea,Loose Leaf,Black,N/A,2,4,,,206,,,6,FALSE,"Orthodox Darjeeling & Upper Assam blend, Rose Petals from Kashmir India"
+Ruby Red Apple,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,TRUE,"Apple, Rosehip, cranberry, elderberry pieces, hibiscus petals, natural flavors"
+Sassyfras Strawberry,Piper & Leaf,Tea,Loose Leaf,Green,N/A,3,,80,,,,1.2,34,TRUE,"sencha green tea, strawberries, sarsaparilla root, natural flavor, red beets"
+Sleepytime Melatonin,Celestial Seasonings,Tea,Tea Bags,Herbal,N/A,,,,,,,0.75,21,FALSE,"Proprietary blend, chamomile, catnip, melatonin, spearmint leaf, lemongrass leaf, hawthorn berry"
+Sleepytime Vanilla,Celestial Seasonings,Tea,Tea Bags,Herbal,N/A,4,6,100,,,,1.1,30,TRUE,"Chamomile, Spearmint, Lemongrass, Natural french vanilla flavor, natural flavors, blackberry leaves, hawthorn, tilia flowers, rosebuds"
+Spice Ginger Pineapple,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,4,80,,176,,0.28,8,FALSE,"Green tea, ginger, pineapple, apple, hibiscus, platain leaves, chili pepper, black pepper, pink peppercorns, maricold petals, calendula petals, natural flavors"
+Spiced Bourbon,Dollar Tea Club,Tea,Loose Leaf,Rooibos,N/A,4,6,100,,212,,0.28,8,FALSE,"Rooibos, almond pieces, calendula petals, natural flavors"
+Spicy Cider,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,6,100,,212,,0.28,8,FALSE,"Apple, Rosehip, Elderberry, clove, cranberry pieces, hibiscus petals, cinnamon, natural flavors"
+Spring Berry,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,7,100,,212,,0.28,8,FALSE,"Apple pieces, hibiscus petals, rosehip pieces, elderberry pieces, banana pieces, strawberry pieces, natural flavors"
+Strawberry,infuZed tZ,Tea,Loose Leaf,Black,N/A,3,7,100,,212,,,50,TRUE,"Black tea, papaya, strawberry, lime leaves, blackberry leaves, natural flavors"
+Strawberry Kiwi,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,4,7,100,,212,,0.28,8,TRUE,"Apple pieces, hibiscus petals, rosehip, kiwi pieces, strawberry pieces, natural flavors"
+Sugar Plim,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,FALSE,"Black tea, pineapple pieces, pear pieces, safflower petals, mallow petals, jasmine petals, blackberry leaves, lime leaves, natural flavor"
+Sugar Shack,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,FALSE,"Black tea, safflower petals, authentic maple syrup, natural flavors"
+Summer Pie,Dollar Tea Club,Tea,Loose Leaf,Fruit,N/A,3,5,100,,212,,0.28,8,FALSE,"Elderberries, currants, hibiscus petals, natural flavors"
+Sweet Lychee,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,4,5,100,,212,,0.28,8,TRUE,"Black Tea, Natural flavors"
+Sweetie Pie Chai,Piper & Leaf,Tea,Tea Bags,Herbal,N/A,7,,100,,,,,,TRUE,"sweet potato, cinnamon, tulsi, ginger, licorice root, clove, natural flavor, cassia oil"
+Tarzan & Jane,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,FALSE,"Black tea, papaya, apricot pieces, blackberry, lime leaves, calendula petals, sunflower petals, natural flavors"
+The Original,PG tips,Tea,Tea Bags,Black,N/A,2,3,100,,,,,116,TRUE,
+Throat Comfort,Yogi,Tea,Tea Bags,Herbal,N/A,,,,,,,,,TRUE,"Wild Cherry Bark, Licorice Root, Fennel seed, cinnamon bark, orange peel, slippery elm bark, cardamom pod, ginger root, mullein leaf, clove bud, black pepper"
+Tunisian Lemon Mint,Dollar Tea Club,Tea,Loose Leaf,Rooibos,N/A,3,5,100,,212,,0.28,8,FALSE,"Rooibos, Lemon Pieces, Peppermint leaves"
+Tunisian Lemon Mint,Dollar Tea Club,Tea,Loose Leaf,Rooibos,N/A,3,5,100,,212,,0.28,8,TRUE,"Rooibos, Lemon Pieces, Peppermint leaves"
+Uncle Iroh,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,3,80,,176,,1.76,50,TRUE,"Green tea, jasmine petals, natural flavors"
+Walnut Truffle,Dollar Tea Club,Tea,Loose Leaf,Green,N/A,2,4,80,,176,,0.28,8,FALSE,"Green tea, almonds, chocolate chips, walnuts, safflowers, rose petals, natural flavors, artificial flavors"
+White Apricot,Dollar Tea Club,Tea,Loose Leaf,White,N/A,2,3,80,,176,,0.28,8,FALSE,"White tea, apple pieces, hibiscus petals, rosehip pieces, orange pieces, calendula petals, natural flavors"
+Wild Black Currant,Dollar Tea Club,Tea,Loose Leaf,Black,N/A,2,3,100,,212,,0.28,8,FALSE,"Black tea, currants, black leaves, mallow, cornflower, sunflower petals, natural flavors"
